@@ -19,3 +19,4 @@ BucketSort: "桶排序"<br>
 QuickSort: 快速排序<br>
 intOverflow：整数溢出数值<br>
 printf： 打印的占位符类型，超出数值时的变化<br>
+printf2：打印的占位符类型，char 类型的转义字符<br>
