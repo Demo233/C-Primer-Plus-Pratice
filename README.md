@@ -20,3 +20,4 @@ QuickSort: 快速排序<br>
 intOverflow：整数溢出数值<br>
 printf： 打印的占位符类型，超出数值时的变化<br>
 printf2：打印的占位符类型，char 类型的转义字符<br>
+inttypes：打印可移植的类型的数据<br>
