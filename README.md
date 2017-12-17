@@ -24,3 +24,5 @@ inttypes：打印可移植的类型的数据<br>
 printf3：打印浮点值<br>
 floaterr：浮点数的舍入错误<br>
 typesize：使用 sizeof 打印不同类型的字节长度<br>
+ESC：转义字符简单实用<br>
+Overflow：溢出<br>
